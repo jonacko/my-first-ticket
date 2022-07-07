@@ -65,7 +65,7 @@ Two of the three links from the nav bar to other areas on the webpage worked usi
 1. Given that one of the key points of the acceptance criteria was to improve the accessibility of the images, I decided to add the 'hero' image using the source element in the HTML (see below), as alt tags cannot be added to 'background' images in CSS, as far as I understand.  This was the only section in which I had to keep the div elements otherwise the picture would not stretch to either far side of the web page - I did not know how to fix this otherwise.
 
 
-![Alt text](https://github.com/jonacko/my-first-ticket/blob/main/Readme_images/img_1_user_acceptance.png?raw=true "Image 5")
+![Alt text](https://github.com/jonacko/my-first-ticket/blob/main/Readme_images/img_5_hero.png "Image 5")
 
 2. After undertanking the above, I tried breaking the code in order to see if the alt tag appeared, which it did, however it changed the formatting of the other sections on the webpage and I did not know how to rectify this. All content remained the same, however.
 
