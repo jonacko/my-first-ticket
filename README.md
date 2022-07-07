@@ -71,7 +71,7 @@ Two of the three links from the nav bar to other areas on the webpage worked usi
 
 3. After removing all the div elements and replacing with semantic HMTL elements, the 'aside' section moved down the page.  I tried a number of things to fix this, such as wrapping the aside into the main and reintroducing divs.  
 
-Eventually, I changed the 'position' of the aside section, by moving it up from the bottom by 960 px (see below), however this inevitably resulted in a large gap between the main/aside section of the webpage and the footer.  I understand this is not an ideal solution, but it was the best fix I could manage at the time...any advice appreciated!?
+Eventually, I changed the 'position' of the aside section, by moving it up from the bottom by 960 px (see below), and this moved the 'aside' section upwards to the correct position.  However this inevitably resulted in a large gap between the main/aside section of the webpage and the footer.  I understand this is not an ideal solution, but it was the best fix I could manage at the time...any advice appreciated!?
 
 ![Alt text](https://github.com/jonacko/my-first-ticket/blob/main/Readme_images/img_6_relative.png "Image 6")
 
