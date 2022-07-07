@@ -49,7 +49,7 @@ One of the key points of the brief was to include accessible alt attributes.  I 
 
 An unnecessary number of classes were created in the source code, for example:
 
-![Alt text](https://github.com/jonacko/my-first-ticket/blob/main/Readme_images/img_1_user_acceptance.png?raw=true "Image 3)
+![Alt text](https://github.com/jonacko/my-first-ticket/blob/main/Readme_images/img_3_consolidating_css.png "Image 3)
 
 I therefore grouped these classes for what became the <main> and <aside> elements to make the code more efficient and easier to read, for instance:
 
