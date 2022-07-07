@@ -54,7 +54,7 @@ An unnecessary number of classes were created in the source code, for example:
 I therefore grouped these classes for what became the <main> and <aside> elements to make the code more efficient and easier to read, for instance:
 
 
-![Alt text](https://github.com/jonacko/my-first-ticket/blob/main/Readme_images/img_1_user_acceptance.png?raw=true "Image 4")
+![Alt text](https://github.com/jonacko/my-first-ticket/blob/main/Readme_images/img_4_consolidating_css_2.png "Image 4")
 
 ### Fixing links
 
