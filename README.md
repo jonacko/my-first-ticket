@@ -18,7 +18,7 @@ This project was undertaken as a submission for a Birmingham City Bootcamp assig
 
 The image below shows the web application's intended appearance and functionality:
 
-![Alt text](https://github.com/jonacko/my-first-ticket/blob/main/Readme_images/img_1_user_acceptance.png?raw=true "Image 2")
+![Alt text](https://github.com/jonacko/my-first-ticket/blob/main/Readme_images/img_2_appearance_functionality.png "Image 2")
 
 # 2. Key amendments
 
