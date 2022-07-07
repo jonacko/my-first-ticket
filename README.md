@@ -51,7 +51,7 @@ An unnecessary number of classes were created in the source code, for example:
 
 ![Alt text](https://github.com/jonacko/my-first-ticket/blob/main/Readme_images/img_3_consolidating_css.png "Image 3")
 
-I therefore grouped these classes for what became the <main> and <aside> elements to make the code more efficient and easier to read, for instance:
+I therefore grouped these classes for what became the 'main' and 'aside' elements to make the code more efficient and easier to read, for instance:
 
 
 ![Alt text](https://github.com/jonacko/my-first-ticket/blob/main/Readme_images/img_4_consolidating_css_2.png "Image 4")
@@ -69,7 +69,7 @@ Two of the three links from the nav bar to other areas on the webpage worked usi
 
 2. After undertanking the above, I tried breaking the code in order to see if the alt tag appeared, which it did, however it changed the formatting of the other sections on the webpage and I did not know how to rectify this. All content remained the same, however.
 
-3. After removing all the div elements and replacing with semantic HMTL elements, the <aside> section moved down the page.  I tried a number of things to fix this, such as wrapping the aside into the main and reintroducing divs.  
+3. After removing all the div elements and replacing with semantic HMTL elements, the 'aside' section moved down the page.  I tried a number of things to fix this, such as wrapping the aside into the main and reintroducing divs.  
 
 Eventually, I changed the 'position' of the aside section, by moving it up from the bottom by 960 px (see below), however this inevitably resulted in a large gap between the main/aside section of the webpage and the footer.  I understand this is not an ideal solution, but it was the best fix I could manage at the time...any advice appreciated!?
 
